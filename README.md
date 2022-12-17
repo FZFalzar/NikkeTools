@@ -1,5 +1,9 @@
 # NikkeTools
 Encryption/Decryption of assets for NIKKE: Goddess of Victory for purposes of modding of graphical assets  
+
+If you don't own a Spine Pro license for modification of skeletons, you may consider using https://github.com/FZFalzar/skel2json_v4.0 to convert these skel files to the Spine JSON format, which can then be modified with 3rd-party editors such as DragonBones.  
+Note: json2skel is planned but there are no planned timelines yet.  
+
 If you like this tool and wish to support future development, consider buying me a coffee @ https://ko-fi.com/fzfalzar or use the sponsor button!
 
 ## Special Thanks  
